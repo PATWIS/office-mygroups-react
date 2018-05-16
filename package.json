@@ -2,7 +2,7 @@
   "name": "office-webapp-react",
   "version": "1.0.0",
   "description": "",
-  "main": "app/index.js",
+  "main": "app/index.jsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --port=8443 --https",
